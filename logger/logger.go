@@ -236,10 +236,10 @@ func PrintLogo(shouldClear bool) {
 			\ \				
 			 \ \			
 			__\ \			
-			\  __\			Twez Sniper
-			 \ \			discord.gg/nitrohaven
-			__\ \			t.me/nitrohaven
-			\  __\			@twezted
+			\  __\			Don Sniper
+			 \ \			discord.gg/donworry
+			__\ \			t.me/donworry
+			\  __\			@donworry
 			 \ \			donkey kong!
 			__\ \
 			\  __\
